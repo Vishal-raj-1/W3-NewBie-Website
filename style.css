@@ -98,12 +98,12 @@ html, body{
 
 /* Emogi section */
 .fun{
-  width: 80%;
+  width: 100%;
   margin: 2rem;
 }
 
 .gif{
-  max-width: 90%;
+  max-width: 100%;
 }
 
 /* Services Section */
